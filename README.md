@@ -1,4 +1,7 @@
-# test coverage for  [debounce (v1.0.0)](https://github.com/component/debounce)  [![npm package](https://img.shields.io/npm/v/npmtest-debounce.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-debounce) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-debounce.svg)](https://travis-ci.org/npmtest/node-npmtest-debounce)
+# npmtest-debounce
+
+#### basic test coverage for  [debounce (v1.0.0)](https://github.com/component/debounce)  [![npm package](https://img.shields.io/npm/v/npmtest-debounce.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-debounce) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-debounce.svg)](https://travis-ci.org/npmtest/node-npmtest-debounce)
+
 #### Creates and returns a new debounced version of the passed function that will postpone its execution until after wait milliseconds have elapsed since the last time it was invoked
 
 [![NPM](https://nodei.co/npm/debounce.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/debounce)
